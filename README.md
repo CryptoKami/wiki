@@ -1,0 +1,2 @@
+# wiki
+The CryptoKami wiki
